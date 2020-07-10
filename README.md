@@ -35,4 +35,4 @@ __**I hope you find them useful. In case of advice, feel free to contact me.**__
 Write ups for retired machines following a manual testing approach without the use of automated tools.
 
 
-# ***More write-ups will come soon.
+# ***More write-ups will come soon***
