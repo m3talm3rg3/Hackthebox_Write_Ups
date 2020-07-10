@@ -39,7 +39,7 @@ Write ups for retired machines following a manual testing approach without the u
 
 
 # Actives Boxes
-- [Magic]
+- [Magic](https://github.com/m3talm3rg3/Hackthebox_Write_Ups/tree/master/Magic)
   - Released on 18th April 2020
   - OS: Linux
   
