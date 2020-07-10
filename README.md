@@ -36,3 +36,15 @@ Write ups for retired machines following a manual testing approach without the u
 
 
 # ***More write-ups will come soon***
+
+
+# Actives Boxes
+- [Magic]
+  - Released on 18th April 2020
+  - OS: Linux
+  
+# Retired Boxes
+  - [Legacy]
+  - Released on 15th March 2020
+  - OS: Windows
+  - Tags: SMB, eternalblue, MS08-067
