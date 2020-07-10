@@ -44,7 +44,7 @@ Write ups for retired machines following a manual testing approach without the u
   - OS: Linux
   
 # Retired Boxes
-  - [Legacy]
-   - Released on 15th March 2020
-   - OS: Windows
-   - Tags: SMB, eternalblue, MS08-067
+- [Legacy](#)
+  - Released on 15th March 2020
+  - OS: Windows
+  - Tags: SMB, eternalblue, MS08-067
