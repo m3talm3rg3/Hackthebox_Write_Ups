@@ -42,7 +42,9 @@ Write ups for retired machines following a manual testing approach without the u
 - [Magic](https://github.com/m3talm3rg3/Hackthebox_Write_Ups/tree/master/Magic)
   - Released on 18th April 2020
   - OS: Linux
-  
+- [Blunder](https://github.com/m3talm3rg3/Hackthebox_Write_Ups/tree/master/Blunder)
+  - Released on 30th May 2020
+  - OS: Linux
 # Retired Boxes
 - [Legacy](#)
   - Released on 15th March 2020
