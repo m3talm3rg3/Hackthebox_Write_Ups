@@ -46,7 +46,7 @@ Write ups for retired machines following a manual testing approach without the u
   - Released on 30th May 2020
   - OS: Linux
 # Retired Boxes
-- [Legacy](#)
+- [Legacy](https://github.com/m3talm3rg3/Hackthebox_Write_Ups/tree/master/Legacy)
   - Released on 15th March 2020
   - OS: Windows
   - Tags: SMB, eternalblue, MS08-067
