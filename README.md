@@ -49,4 +49,4 @@ Write ups for retired machines following a manual testing approach without the u
 - [Legacy](https://github.com/m3talm3rg3/Hackthebox_Write_Ups/tree/master/Legacy)
   - Released on 15th March 2020
   - OS: Windows
-  - Tags: SMB, eternalblue, MS08-067
+  - Tags: SMB, eternalblue, MS08-067, MS17-010
