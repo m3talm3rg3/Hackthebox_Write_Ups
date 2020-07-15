@@ -2,6 +2,8 @@
 
 Writeups for HacktheBox machines and challenges written in Spanish or English.
 
+# Linux
+
 # Password Protection for actives
 
 Starting with Mazro 2020, HTB flags are dynamic and different for each user, making it difficult to use this flag. So, I have chosen to use the full hash of root.
@@ -26,7 +28,18 @@ Output
 
 The output is the password for the wirte up 
 
+# Windows 
 
+With the use of mimikatz we launch the following command to obtain the hash
+
+ ./mimikatz.exe "lsadump::dcsync /user:administrator"
+ 
+ And in the final part we will use the one that says NTLM
+ 
+Credentials:
+  Hash NTLM: f9485863c1e9e05851ab40cbb5ab9dff
+
+Just copy and paste into the PDF to unlock it !!
 
 __**I hope you find them useful. In case of advice, feel free to contact me.**__
 
