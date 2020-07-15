@@ -2,9 +2,9 @@
 
 Writeups for HacktheBox machines and challenges written in Spanish or English.
 
-# Linux
-
 # Password Protection for actives
+
+# Linux
 
 Starting with Mazro 2020, HTB flags are dynamic and different for each user, making it difficult to use this flag. So, I have chosen to use the full hash of root.
 Therefore you need to have obtained the root flag. 
