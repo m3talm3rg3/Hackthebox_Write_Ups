@@ -58,6 +58,9 @@ Write ups for retired machines following a manual testing approach without the u
 - [Blunder](https://github.com/m3talm3rg3/Hackthebox_Write_Ups/tree/master/Blunder)
   - Released on 30th May 2020
   - OS: Linux
+- [Adminer](https://github.com/m3talm3rg3/Hackthebox_Write_Ups/tree/master/Adminer)
+  - Released on 2nd May 2020
+  - OS: Linux
 # Retired Boxes
 - [Legacy](https://github.com/m3talm3rg3/Hackthebox_Write_Ups/tree/master/Legacy)
   - Released on 15th March 2020
